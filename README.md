@@ -1,6 +1,6 @@
 # Switch Import Renamer
 
-Switch Import Renamer is an IDAPython script to rename the stub functions that call imported library function.
+Switch Import Renamer is an IDAPython script to rename the stub functions that call imported library functions in Nintendo Switch executables.
 
 ## Installation
 
